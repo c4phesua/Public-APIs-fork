@@ -558,6 +558,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**SoundCloud**](https://developers.soundcloud.com) | Using the SoundCloud API, you can build applications that take sound on the web to the next level. | **N/A** |
 | [**Spotify**](https://beta.developer.spotify.com/documentation/web-api) | Spotify’s Web API lets your applications fetch data from the Spotify music catalog, manage users' playlists and saved music, get recommendations, control Spotify Connect, and more. | **N/A** |
 | [**TheAudioDB**](http://www.theaudiodb.com) | Free [JSON](https://en.wikipedia.org/wiki/JSON) API for music data, artwork, charting, ratings and hashes. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**ReccoBeats**](https://reccobeats.com) | API for accessing Track, Artist, Album database and music recommendation | **N/A** |
 
 
 [⬆ Back to Table of Contents](#table-of-contents)
